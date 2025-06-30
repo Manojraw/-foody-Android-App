@@ -84,7 +84,7 @@ This Android Application is written in **Kotlin** with **MVVM Architecture** usi
 ```
 MIT License
 
-Copyright (c) 2020 Shrikanth Ravi
+Copyright (c) 2020  manoj kumar meena
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -105,4 +105,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-[![Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://zinger.pw/app) [![Android](https://forthebadge.com/images/badges/built-for-android.svg)](https://www.android.com) [![Developers](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/shrikanth7698/Zinger-Android-App/graphs/contributors)
+
