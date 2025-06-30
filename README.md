@@ -44,18 +44,6 @@ This Android Application is written in **Kotlin** with **MVVM Architecture** usi
 *  No more calling the restaurant to check if your order is prepared or picked. You’ll be able to track your order in real time.
 *  Pay instantly using any digital payment solutions.
 
-## Getting involved
-We encourage you to participate in this open source project. We love Pull Requests, Bug Reports, ideas, (security) code reviews or any other kind of positive contribution.
-
-* [View the Docs](https://zinger.pw/app/docs).
-
-* [View current Issues](https://github.com/shrikanth7698/Zinger-Android-App/issues), [view current Pull Requests](https://github.com/shrikanth7698/Zinger-Android-App/pulls).
-
-* [Opt-in](https://join.slack.com/t/zinger-workspace/shared_invite/zt-e6xt0gc2-nBEy85RhEy7NZv3gWCt6Dg) to our slack channel for discussions.
-
-* [Join](https://discord.gg/TqADaXV) our discord channel
-
-
 ## Build Instructions
 
 
@@ -91,33 +79,6 @@ We encourage you to participate in this open source project. We love Pull Reques
    
 8. Run the project into an emulator or a physical device. 
 
-## Checkout
-
-* <a href="https://github.com/harshavardhan98/Zinger-Seller-App" target="_blank">Zinger Partner App Repo</a>
-* <a href="https://zinger.pw" target="_blank">Zinger Framework</a>
-
-## Contributors
-
-* **Shrikanth Ravi** - Android Developer and UI Designer - <a href="https://github.com/shrikanth7698" target="_blank">Github Profile</a>
-* **Harshavardhan P** - Android Developer - <a href="https://github.com/harshavardhan98" target="_blank">Github Profile</a>
-
-## Contact Us
-
-* #### StackoverFlow
-
-    You can ask programming-related questions on [Stack Overflow](https://stackoverflow.com/questions/tagged/zinger). Use the `zinger` tag to tag your questions.
-
-* #### Slack
-
-    Join our [Slack](https://zinger-workspace.slack.com/join/shared_invite/zt-e6xt0gc2-nBEy85RhEy7NZv3gWCt6Dg/) group to start collaborating!
-
-* #### Discord
-
-    Chat with our contributors in [Discord](https://discord.gg/TqADaXV) community.
-
-* #### Email
-
-    Send an email to support@zinger.pw with a brief description.
 
 ## License
 ```
