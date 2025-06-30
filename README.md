@@ -1,23 +1,9 @@
-![Cover Image](zinger_app_cover_without_text.jpg)
+
 
 <h1 align="center">
-  Zinger Android App
+  foody Android App
 </h1>
 
-<p align="center">
-  Join our active, engaged community: <br>
-  <strong>
-    <a href="https://zinger.pw/app">website</a>
-    |
-    <a href="https://zinger-workspace.slack.com/join/shared_invite/zt-e6xt0gc2-nBEy85RhEy7NZv3gWCt6Dg/">slack</a>
-    |
-    <a href="https://discord.gg/TqADaXV">discord</a>
-    |
-    <a href="https://zinger.pw/app/docs">docs</a>
-    |
-    <a href="https://zinger.pw">framework</a>
-  </strong>
-</p>
 
 <p align="center">
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-green"></a>
@@ -26,7 +12,7 @@
   <a href="https://github.com/shrikanth7698/Zinger-Android-App/pulls"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square"></a>
 </p>
 
-This is an open source food ordering application developed to showcase the capabilities of <a href="https://zinger.pw" target="_blank">Zinger Framework</a>. This app helps in ordering foods from multiple outlets located in an office, college campus, or food courts in malls. Customers can save themselves a lot of burden from waiting in line to place an order and picking up the order later. They can browse the entire catalog of food items available to them through the app and seamlessly order food from any restaurant of their choice. The app supports both pickup and delivery orders.
+ This app helps in ordering foods from multiple outlets located in an office, college campus, or food courts in malls. Customers can save themselves a lot of burden from waiting in line to place an order and picking up the order later. They can browse the entire catalog of food items available to them through the app and seamlessly order food from any restaurant of their choice. The app supports both pickup and delivery orders.
 
 This android app uses <a href="https://zinger.pw" target="_blank">Zinger Framework</a> to handle customer side food ordering request. 
 
