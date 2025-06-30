@@ -30,7 +30,7 @@ This Android Application is written in **Kotlin** with **MVVM Architecture** usi
 1. Clone or Download the repository:
 
     ```shell
-    git clone https://github.com/shrikanth7698/Zinger-Android-App.git
+    git clone https://github.com/Manojraw/-foody-Android-App.git
     ```
 
 2. Import the project into Android Studio
